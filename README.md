@@ -1,5 +1,5 @@
 
-- 👋 Hi there, I’m @Haiban13,a Vocational High School student with a passion for backend development and data science.
+- 👋 Hi there, I’m @Haiban13,a Vocational High School student with a passion for backend development and cybersecurity
 - 🌱 I’m currently learning laravel and node js 
 - 📫 How to reach me
   https://www.linkedin.com/in/haiban-irwanov-4132a7272/
